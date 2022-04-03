@@ -1,5 +1,5 @@
 ## Introduction
-All the project files based on the python api of a book store or library call it whatever you want to goes here.:pinched_fingers::pinched_fingers::pinched_fingers:
+All the project files based on the python api of a book store or library call it whatever you want to goes here.:pinched_fingers::pinched_fingers::pinched_fingers:<br>
 [![Github code size in bytes](https://img.shields.io/github/languages/code-size/kobrakaii/project)](https://github.com/Kobrakaii/project)
 ## Installation
 #### Step 1 - Install Git on your device
