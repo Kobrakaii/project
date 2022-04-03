@@ -13,4 +13,4 @@ git clone https://github.com/Kobrakaii/project
 ```
 #### Step 5 - Create new work files and push the code to the git server
 
-[](https://img.shields.io/github/languages/code-size/kobrakaii/project)
+[![Github code size in bytes](https://img.shields.io/github/languages/code-size/kobrakaii/project)](https://github.com/Kobrakaii/project)
