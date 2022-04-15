@@ -56,11 +56,11 @@ function postData() {
         })
 }
 function putData() {
-    var _id = document.getElementById("id").value;
+    var id = document.getElementById("id").value;
     var name = document.getElementById("name").value;
     var price = document.getElementById("price").value;
     var author = document.getElementById("author").value;
-    data = { _id: _id, name: name, price: price, author: author };
+    data = { id: id, name: name, price: price, author: author };
     fetch(api_url, {
         method: "PUT",
         headers: {
@@ -84,7 +84,7 @@ function deleteData(id) {
                 'Accept': 'application/json',
                 'Content-Type': 'application/json'
             },
-            body: JSON.stringify({ "_id": id })
+            body: JSON.stringify({ "id": id })
         })
             .then((response) => response.json())
             .then((data) => {
